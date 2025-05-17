@@ -1,1 +1,1 @@
-require('lib'); console.log('init')
+require('lib'); console.log('init.js')
